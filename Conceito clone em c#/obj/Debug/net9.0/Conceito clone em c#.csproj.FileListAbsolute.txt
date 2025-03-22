@@ -1,0 +1,15 @@
+c:\Users\Leogu\OneDrive\Área de Trabalho\c#\Conceito clone em c#\bin\Debug\net9.0\Conceito clone em c#.exe
+c:\Users\Leogu\OneDrive\Área de Trabalho\c#\Conceito clone em c#\bin\Debug\net9.0\Conceito clone em c#.deps.json
+c:\Users\Leogu\OneDrive\Área de Trabalho\c#\Conceito clone em c#\bin\Debug\net9.0\Conceito clone em c#.runtimeconfig.json
+c:\Users\Leogu\OneDrive\Área de Trabalho\c#\Conceito clone em c#\bin\Debug\net9.0\Conceito clone em c#.dll
+c:\Users\Leogu\OneDrive\Área de Trabalho\c#\Conceito clone em c#\bin\Debug\net9.0\Conceito clone em c#.pdb
+c:\Users\Leogu\OneDrive\Área de Trabalho\c#\Conceito clone em c#\obj\Debug\net9.0\Conceito clone em c#.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Leogu\OneDrive\Área de Trabalho\c#\Conceito clone em c#\obj\Debug\net9.0\Conceito clone em c#.AssemblyInfoInputs.cache
+c:\Users\Leogu\OneDrive\Área de Trabalho\c#\Conceito clone em c#\obj\Debug\net9.0\Conceito clone em c#.AssemblyInfo.cs
+c:\Users\Leogu\OneDrive\Área de Trabalho\c#\Conceito clone em c#\obj\Debug\net9.0\Conceito clone em c#.csproj.CoreCompileInputs.cache
+c:\Users\Leogu\OneDrive\Área de Trabalho\c#\Conceito clone em c#\obj\Debug\net9.0\Conceito clone em c#.sourcelink.json
+c:\Users\Leogu\OneDrive\Área de Trabalho\c#\Conceito clone em c#\obj\Debug\net9.0\Conceito clone em c#.dll
+c:\Users\Leogu\OneDrive\Área de Trabalho\c#\Conceito clone em c#\obj\Debug\net9.0\refint\Conceito clone em c#.dll
+c:\Users\Leogu\OneDrive\Área de Trabalho\c#\Conceito clone em c#\obj\Debug\net9.0\Conceito clone em c#.pdb
+c:\Users\Leogu\OneDrive\Área de Trabalho\c#\Conceito clone em c#\obj\Debug\net9.0\Conceito clone em c#.genruntimeconfig.cache
+c:\Users\Leogu\OneDrive\Área de Trabalho\c#\Conceito clone em c#\obj\Debug\net9.0\ref\Conceito clone em c#.dll
