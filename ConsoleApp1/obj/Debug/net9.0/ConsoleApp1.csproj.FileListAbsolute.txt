@@ -12,3 +12,4 @@ C:\Users\Leogu\OneDrive\Área de Trabalho\c#\ConsoleApp1\obj\Debug\net9.0\refint
 C:\Users\Leogu\OneDrive\Área de Trabalho\c#\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.pdb
 C:\Users\Leogu\OneDrive\Área de Trabalho\c#\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.genruntimeconfig.cache
 C:\Users\Leogu\OneDrive\Área de Trabalho\c#\ConsoleApp1\obj\Debug\net9.0\ref\ConsoleApp1.dll
+C:\Users\Leogu\OneDrive\Área de Trabalho\c#\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.sourcelink.json

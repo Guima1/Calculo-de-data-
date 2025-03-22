@@ -1,6 +1,4 @@
 using System;
-
-namespace pessoa;
 public class Pessoa{
     public string nome; // Use letras minúsculas para os campos
     public int idade;
