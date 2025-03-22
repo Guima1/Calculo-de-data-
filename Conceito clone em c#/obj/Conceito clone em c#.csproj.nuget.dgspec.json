@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Leogu\\OneDrive\\Área de Trabalho\\c#\\Conceito clone em c#\\Conceito clone em c#.csproj": {}
+    "C:\\Users\\Leogu\\OneDrive\\Área de Trabalho\\c#\\Conceito clone em c#\\Conceito clone em c#.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Leogu\\OneDrive\\Área de Trabalho\\c#\\Conceito clone em c#\\Conceito clone em c#.csproj": {
+    "C:\\Users\\Leogu\\OneDrive\\Área de Trabalho\\c#\\Conceito clone em c#\\Conceito clone em c#.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Leogu\\OneDrive\\Área de Trabalho\\c#\\Conceito clone em c#\\Conceito clone em c#.csproj",
+        "projectUniqueName": "C:\\Users\\Leogu\\OneDrive\\Área de Trabalho\\c#\\Conceito clone em c#\\Conceito clone em c#.csproj",
         "projectName": "Conceito clone em c#",
-        "projectPath": "c:\\Users\\Leogu\\OneDrive\\Área de Trabalho\\c#\\Conceito clone em c#\\Conceito clone em c#.csproj",
+        "projectPath": "C:\\Users\\Leogu\\OneDrive\\Área de Trabalho\\c#\\Conceito clone em c#\\Conceito clone em c#.csproj",
         "packagesPath": "C:\\Users\\Leogu\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Leogu\\OneDrive\\Área de Trabalho\\c#\\Conceito clone em c#\\obj\\",
+        "outputPath": "C:\\Users\\Leogu\\OneDrive\\Área de Trabalho\\c#\\Conceito clone em c#\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Leogu\\AppData\\Roaming\\NuGet\\NuGet.Config"
