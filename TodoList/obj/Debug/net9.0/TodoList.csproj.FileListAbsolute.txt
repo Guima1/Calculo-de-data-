@@ -1,0 +1,15 @@
+C:\Users\Leogu\OneDrive\Área de Trabalho\c#\TodoList\bin\Debug\net9.0\TodoList.exe
+C:\Users\Leogu\OneDrive\Área de Trabalho\c#\TodoList\bin\Debug\net9.0\TodoList.deps.json
+C:\Users\Leogu\OneDrive\Área de Trabalho\c#\TodoList\bin\Debug\net9.0\TodoList.runtimeconfig.json
+C:\Users\Leogu\OneDrive\Área de Trabalho\c#\TodoList\bin\Debug\net9.0\TodoList.dll
+C:\Users\Leogu\OneDrive\Área de Trabalho\c#\TodoList\bin\Debug\net9.0\TodoList.pdb
+C:\Users\Leogu\OneDrive\Área de Trabalho\c#\TodoList\obj\Debug\net9.0\TodoList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leogu\OneDrive\Área de Trabalho\c#\TodoList\obj\Debug\net9.0\TodoList.AssemblyInfoInputs.cache
+C:\Users\Leogu\OneDrive\Área de Trabalho\c#\TodoList\obj\Debug\net9.0\TodoList.AssemblyInfo.cs
+C:\Users\Leogu\OneDrive\Área de Trabalho\c#\TodoList\obj\Debug\net9.0\TodoList.csproj.CoreCompileInputs.cache
+C:\Users\Leogu\OneDrive\Área de Trabalho\c#\TodoList\obj\Debug\net9.0\TodoList.sourcelink.json
+C:\Users\Leogu\OneDrive\Área de Trabalho\c#\TodoList\obj\Debug\net9.0\TodoList.dll
+C:\Users\Leogu\OneDrive\Área de Trabalho\c#\TodoList\obj\Debug\net9.0\refint\TodoList.dll
+C:\Users\Leogu\OneDrive\Área de Trabalho\c#\TodoList\obj\Debug\net9.0\TodoList.pdb
+C:\Users\Leogu\OneDrive\Área de Trabalho\c#\TodoList\obj\Debug\net9.0\TodoList.genruntimeconfig.cache
+C:\Users\Leogu\OneDrive\Área de Trabalho\c#\TodoList\obj\Debug\net9.0\ref\TodoList.dll
